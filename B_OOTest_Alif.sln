@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_OOTest_Alif", "B_OOTest_Alif\B_OOTest_Alif.csproj", "{EB470D37-D286-4CFD-8C83-247CA9F193C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B_OOTest_Alif_test_scenario", "B_OOTest_Alif_test\B_OOTest_Alif_test_scenario.csproj", "{1ABEE699-0993-42E5-9513-3BD981B5B2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB470D37-D286-4CFD-8C83-247CA9F193C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB470D37-D286-4CFD-8C83-247CA9F193C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB470D37-D286-4CFD-8C83-247CA9F193C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB470D37-D286-4CFD-8C83-247CA9F193C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ABEE699-0993-42E5-9513-3BD981B5B2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABEE699-0993-42E5-9513-3BD981B5B2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABEE699-0993-42E5-9513-3BD981B5B2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABEE699-0993-42E5-9513-3BD981B5B2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E4E93C-4D90-4860-A61C-F0B453C0084E}
+	EndGlobalSection
+EndGlobal
